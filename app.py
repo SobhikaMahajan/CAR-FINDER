@@ -22,8 +22,8 @@ for basename in os.listdir(folder):
         
         fnames.append(fname)
 
-st.sidebar.title("Microsoft Car Finder :)")
-st.sidebar.markdown("Hi there!! I welcome you all. This is my project on car analysis for Engage 2022.")
+st.sidebar.title("Car Finder :)")
+st.sidebar.markdown("Hi there!! I welcome you all.")
 st.sidebar.markdown("Below is the navigation bar. You can select the dashboard you want to visit.")
 st.sidebar.image("https://wallpaperaccess.com/full/145594.jpg")
 fname_to_run = st.sidebar.selectbox('Select dashboard', fnames)
