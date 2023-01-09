@@ -18,7 +18,7 @@ data = model_load()
 
 def app():
     st.title(""" Welcome to Car Mileage Calculator """)
-    st.image("Image\dashboard-digital-display-mileage-fuel-consumption-speed-modern-car-speedometer-new-colorful-light-indicators-isolatred-71989997.jpg")
+    st.image("dashboard-digital-display-mileage-fuel-consumption-speed-modern-car-speedometer-new-colorful-light-indicators-isolatred-71989997.jpg")
     st.header("Please provide the following details to calculate the mileage")
     
     cylinder = ("4","6","8")
