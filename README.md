@@ -35,8 +35,6 @@ Microsoft Car Finder helps to analyze and visualise automative dataset and also 
 1) RUN : git clone https://github.com/SobhikaMahajan/Project.git or Download the repository.
 2) Extract it and RUN file : app.py
 <br></br>
-
-
 <br></br>
 ## About
 Starting with a beautiful landing page, the user heads next to a page with navigation bar. The navigation bar has the takes us to three dashboard namely Car Dashboard, Mileage Predictor and Price Predictor.
