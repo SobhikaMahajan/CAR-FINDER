@@ -12,7 +12,7 @@ model = pickle.load(open('random_forest_regression_model.pkl', 'rb'))
 
 st.title("Selling Price Predictor ")
 st.markdown("##### Are you planning to sell your car !?\n##### So let's try evaluating the price ")
-st.image("Image\\1280_MvC5jJnUh9r7.png")
+st.image("1280_MvC5jJnUh9r7.png")
 
 st.write('')
 st.write('')
